@@ -8,7 +8,7 @@
     <version>0.0.30-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>demo-parent</name>
+    <name>My demo-parent</name>
     <description>My demo multi module project</description>
 
     <parent>
